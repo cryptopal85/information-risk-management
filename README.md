@@ -16,6 +16,7 @@ https://github.com/gurkanhuray/information-risk-management/blob/main/IRM%20Modul
   **4-6** Placeholder
   
 **Module Assignment & Materials**
+
 The following link below includes screenshot of contributions, module assignment essays, reports and additional materials such as drawings/tables.
 
 https://github.com/gurkanhuray/information-risk-management/tree/main/IRM%20module%20assignment%20and%20materials
